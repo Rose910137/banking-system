@@ -1,0 +1,30 @@
+#object files
+*.o
+*.obj
+
+#Compiled source
+*.exe
+*.out
+
+#Build directories
+build/
+bin/
+#Debug files
+*.dSYM
+*.pdb
+
+#Temporary files    
+*.tmp
+*.temp
+*.swp
+#cache files    
+*.cache
+#log files
+*.log
+#Editor files
+*.swp
+*.bak
+#VS code settings
+.vscode/    
+#Core dumps
+core
